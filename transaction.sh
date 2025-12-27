@@ -1,3 +1,15 @@
-Remotes
+
+vi application.json  -> add content -> :wq
+git add .
+git commit -m "Ticket-no - Description"
+
+
+git remote -v
+origin https://github.com/GoudSagar/Automation-devops.git(fetch)
+origin https://github.com/GoudSagar/Automation-devops.git(push)
+upstream https://github.com/devopscloudtrainer/Automation-devops.git(fetch)
+upstream  https://github.com/devopscloudtrainer/Automation-devops.git(push)
+
+git push origin mainRemotes
 * Pull Request
 * Fork Mechanism 
